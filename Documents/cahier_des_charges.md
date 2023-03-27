@@ -57,3 +57,39 @@ Comme dit dans le context, les cibles de ce site sont les jeunes internautes et 
 
 # Les maquettes
 Je vous propose ci-dessous une visualisation aproximative du résultat final sur différent support:
+
+## Version Ordinateur:
+
+### Accueil
+
+![[accueildesktop.jpg]]
+
+### Les actualités
+
+![[actualitésdesktop.jpg]]
+
+### Les événements
+
+![[eventsdesktop.jpg]]
+
+### La vue d'un article
+
+![[actualités_eventsdesktop.jpg]]
+
+## Version Mobile
+
+### Accueil
+
+![[accueilmobile.jpg]]
+
+### Actualités
+
+![[actualitésmobile.jpg]]
+
+### Les événements
+
+![[eventsmobile.jpg]]
+
+### La vue d'un article
+
+![[actualités_eventsmobile.jpg]]

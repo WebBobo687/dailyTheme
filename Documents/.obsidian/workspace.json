@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ffb34e2ae380c4e",
+        "id": "411ba94119af36b0",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2453b4d80fefbd",
+            "id": "4acb3b1a7ae8def9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2453b4d80fefbd",
+  "active": "4acb3b1a7ae8def9",
   "lastOpenFiles": [
-    "Analyse de la demande.md",
     "img/Pasted image 20230327155554.png",
-    "cahier_des_charges.md"
+    "Analyse de la demande.md",
+    "img/maquettes_Desktop/actualités_eventsdesktop.jpg",
+    "img/maquettes_Mobile/actualités_eventsmobile.jpg",
+    "img/maquettes_Mobile/eventsmobile.jpg",
+    "img/maquettes_Mobile/actualitésmobile.jpg",
+    "img/maquettes_Mobile/accueilmobile.jpg",
+    "img/maquettes_Desktop/eventsdesktop.jpg",
+    "img/maquettes_Mobile",
+    "img/maquettes_Desktop/accueildesktop.jpg",
+    "cahier_des_charges.md",
+    "img/maquettes_Desktop",
+    "img/maquettes_Desktop/actualitésdesktop.jpg",
+    "img/Pasted image 20230327153314.png"
   ]
 }
