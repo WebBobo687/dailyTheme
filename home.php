@@ -1,11 +1,10 @@
 <?php get_header() ?>
 
+<h1>HOME</h1>
+
 <?php if (have_posts()) : ?>
-
-    <div class="row"></div>
-
-    <?php while (have_posts()) : the_post(); ?>
-
+    <div class="row">
+        <?php while (have_posts()) : the_post(); ?>
         <div class="col-sm-4">
             <div class="card">
                 <?php the_post_thumbnail('post-thumbnail', ['class' => 'card-img-top', 'alt' => '', 'style' => 'height: auto']) ?>
@@ -18,7 +17,8 @@
                 </div>
             </div>
         </div>
-    <?php endwhile ?>
+        <?php endwhile ?>
+    </div>
 
 <?php else : ?>
     <h1>Pas d'articles</h1>
