@@ -2,6 +2,7 @@
     <footer>
       <div class="footer-container">
 
+      <!-- formulaire -->
         <form class="footer-form">
           <p class="form-title">S'inscrire au journal</p>
           <input type="email" placeholder="email">

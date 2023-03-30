@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- affiche le titre du site depuis wp -->
     <?php wp_head() ?>
 </head>
 <body>
@@ -16,6 +17,7 @@
     </button>
 
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+        <!-- Récupère les éléments du menu créé sur wp -->
         <?php wp_nav_menu(['theme_location' => 'header', 'container' => false, 'menu_class' => 'navbar-nav justify-content-end'])?>
     </div>
     </nav>
