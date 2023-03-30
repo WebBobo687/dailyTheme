@@ -23,11 +23,9 @@
             "id": "9fa845781ea8fac8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20230330164401.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "img/Pasted image 20230330164401.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "img/Pasted image 20230330164401.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "img/Pasted image 20230330164401.png"
               }
             }
           }
@@ -161,20 +159,20 @@
   },
   "active": "9fa845781ea8fac8",
   "lastOpenFiles": [
+    "readMe.md",
+    "img/Pasted image 20230330164401.png",
+    "img/Pasted image 20230330164239.png",
+    "img/Pasted image 20230330164206.png",
+    "img/Pasted image 20230330164043.png",
+    "img/Pasted image 20230330163807.png",
+    "img/Pasted image 20230330163521.png",
     "cahier_des_charges.md",
-    "Untitled.md",
-    "img/Pasted image 20230327155554.png",
     "Analyse de la demande.md",
+    "img/Pasted image 20230327155554.png",
     "img/maquettes_Desktop/actualités_eventsdesktop.jpg",
     "img/maquettes_Mobile/actualités_eventsmobile.jpg",
     "img/maquettes_Mobile/eventsmobile.jpg",
-    "img/maquettes_Mobile/actualitésmobile.jpg",
-    "img/maquettes_Mobile/accueilmobile.jpg",
-    "img/maquettes_Desktop/eventsdesktop.jpg",
     "img/maquettes_Mobile",
-    "img/maquettes_Desktop/accueildesktop.jpg",
-    "img/maquettes_Desktop",
-    "img/maquettes_Desktop/actualitésdesktop.jpg",
-    "img/Pasted image 20230327153314.png"
+    "img/maquettes_Desktop"
   ]
 }
