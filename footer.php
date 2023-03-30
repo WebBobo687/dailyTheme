@@ -16,7 +16,7 @@
         </div>
 
         <div class="footer-list">
-          <p class="footer-title">Nous Contacter</p>
+          <p class="footer-title" id="contact">Nous Contacter</p>
           <ul>
             <li>Adresse: 5 rue de la folle</li>
             <li>Tel: 945 781 20</li>
