@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <?php wp_head() ?>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
-    <a class="navbar-brand" href="lePays/"><?php bloginfo('name') ?></a>
+    <nav class="navbar navbar-expand-lg navbar-dark mb-4">
+    <a class="navbar-brand" href="#">
+        <img src="wp-content\themes\dailyTheme\asset\img\lePays_Logo.png" alt="logo_LePays">
+    </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
